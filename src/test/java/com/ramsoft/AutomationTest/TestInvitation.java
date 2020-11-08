@@ -7,7 +7,7 @@ public class TestInvitation extends BaseTest {
 	@Test
 	public void test01() {
 
-		System.out.println("hello world!");
+		System.out.println("hello world! this is a tse");
 	}
 
 }
